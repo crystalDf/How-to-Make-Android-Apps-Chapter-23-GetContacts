@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GetContacts</string>
+    <string name="show_contacts">Show Contacts</string>
+    <string name="id_to_delete">ID to Delete</string>
+    <string name="delete_contact">Delete Contact</string>
+    <string name="id_to_find">ID to Find</string>
+    <string name="find_contact">Find Contact</string>
+    <string name="name_to_add">Name to Add</string>
+    <string name="add_contact">Add Contact</string>
+</resources>
